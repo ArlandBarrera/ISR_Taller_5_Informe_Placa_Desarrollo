@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727065988.65576 "c:/Users/arlan/Workspace/Latex/ISR/Taller_5/ISR_Taller_5_Informe_Placa_Desarrollo/base.tex" "base.pdf" "base" 1727065992.89669 0
+["pdflatex"] 1727066412.88834 "c:/Users/arlan/Workspace/Latex/ISR/Taller_5/ISR_Taller_5_Informe_Placa_Desarrollo/base.tex" "base.pdf" "base" 1727066417.03772 0
   "1.Portada/portada.tex" 1727057360 927 4e14aa8689aed8a1e99a0158efb89270 ""
   "2.Introduccion/intro.tex" 1727058061 367 f060c14a6ebb49073bcc0032e2f68338 ""
   "3.Desarrollo/3.1.QueEs/quees.tex" 1727058646 421 0e77142f2098800c4f214159c1ab2301 ""
@@ -185,13 +185,13 @@
   "Imagenes/nvidia-logo.png" 1727058369 23988 1792be5832460036197b34ab343aa67c ""
   "Imagenes/tegra_k1.jpg" 1727058757 61572 70b00f7763588ebf6cb52dadfa8d2db8 ""
   "Imagenes/utp.png" 1727056780 105799 7b0e6b2f101038bc9c781b83b7d99321 ""
-  "base.aux" 1727065992 3927 74ee8c8295cb4ef15a959b6049b5ebc2 "pdflatex"
-  "base.lof" 1727065992 1211 a0f7b58050d3803db2401d523ccd2b5e "pdflatex"
-  "base.lot" 1727065992 337 fc435bef307bae628263427f815b753b "pdflatex"
-  "base.out" 1727065992 1698 70b86861200b486c61c7f1afe8770eda "pdflatex"
-  "base.tex" 1727064513 2469 939ac0027f636868cb144a65f906d761 ""
-  "base.toc" 1727065992 970 d8aa5dcfd8bb5570fb90e846d8ade71b "pdflatex"
-  "c:/Users/arlan/Workspace/Latex/ISR/Taller_5/ISR_Taller_5_Informe_Placa_Desarrollo/base.tex" 1727064513 2469 939ac0027f636868cb144a65f906d761 ""
+  "base.aux" 1727066416 3931 248d8ae535a0e944bcc46fa2acebfbad "pdflatex"
+  "base.lof" 1727066416 1211 a0f7b58050d3803db2401d523ccd2b5e "pdflatex"
+  "base.lot" 1727066416 337 fc435bef307bae628263427f815b753b "pdflatex"
+  "base.out" 1727066416 1718 7bb874a66a5ec3b16324c50254c72635 "pdflatex"
+  "base.tex" 1727066406 2473 c568753399005e72b4fa9f7dc4027524 ""
+  "base.toc" 1727066416 974 c51b6a3610abd58e872b1b43c428ef00 "pdflatex"
+  "c:/Users/arlan/Workspace/Latex/ISR/Taller_5/ISR_Taller_5_Informe_Placa_Desarrollo/base.tex" 1727066406 2473 c568753399005e72b4fa9f7dc4027524 ""
   (generated)
   "base.aux"
   "base.lof"
